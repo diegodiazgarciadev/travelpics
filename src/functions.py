@@ -42,7 +42,7 @@ def create_map(coordinates_origin, path_images):
 
     for coord_path in coordinate_path_list:
         if coord_path[0]:
-            name = "Travel pics"
+            name = "Travel pics by Diego Díaz"
             icono = folium.Icon(color="lightgreen",
                          opacity=0.3,
                          icon="glyphicon glyphicon-picture",
