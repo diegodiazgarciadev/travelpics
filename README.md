@@ -5,7 +5,7 @@ I have created a folium map where you can locate all your travel pics
 
 ## How is that possible?
 
-If ywu have pics taken with your gps activate you will be able to use this program which willl take the metadatas from your pics and locate them on a world map. If the picture doesn't have tha information, the program will let you know about it.
+If you have pics taken with your gps activate you will be able to use this program which willl take the metadatas from your pics and locate them on a world map. If the picture doesn't have tha information, the program will let you know about it.
 
 You only have to specify to the program on the "path_images" variable where your pics are stored (by default this folder will be ./images/)
 
